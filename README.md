@@ -12,7 +12,6 @@ After downloading the software, please extract all files and then follow these i
 On the Security Tab, ensure that Educational version is selected and change the 
 licensing method to CLOUD SERVER.
 6. On the Cloud Tab, click Import
-7. Find the license file provided to you via email from your professor and select it. This should activate your copy of WITNESS after allowing WITNESS to restart. 
 
 Please note that when you install WITNESS, two versions are installed. Please ensure you are opening WITNESS Horizon, NOT Witness Horizon Service and Process Edition, unless otherwise specified by your instructor.
 
